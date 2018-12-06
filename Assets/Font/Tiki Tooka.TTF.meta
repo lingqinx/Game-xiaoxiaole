@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 026479a95110245b18f6a90aa9b537c1
+timeCreated: 1526967947
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tiki Tooka BV
+  fontNames:
+  - Tiki Tooka BV
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
